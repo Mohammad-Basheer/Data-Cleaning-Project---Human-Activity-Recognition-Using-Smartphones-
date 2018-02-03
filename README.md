@@ -1,7 +1,7 @@
 # Data-Cleaning-Project---Human-Activity-Recognition-Using-Smartphones-
 Data Cleaning Project - Human Activity Recognition Using Smartphones
 
-1- Read activity names from activity_labels.txt
+## 1- Read activity names from activity_labels.txt
 2-Read feature names from features.txt, it has some repeated variable names
 3-create new unique feature names by combining feature Row number + original feature name
 e.g. ClNames <- as.character(ClNamesRep$V1) %stri+% as.character(ClNamesRep$V2)
