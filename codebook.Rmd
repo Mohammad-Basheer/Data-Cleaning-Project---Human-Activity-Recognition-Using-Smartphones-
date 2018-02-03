@@ -2,7 +2,7 @@
 title: "CodeBook"
 ---
 ## Variable Descriptions
-Activity: Activity performed by Each person wearing a smartphone (Samsung Galaxy S II) on the wais  
+**Activity:** Activity performed by Each person wearing a smartphone (Samsung Galaxy S II) on the wais  
           1-LAYING  
           2-SITTING  
           3-STANDING  
@@ -10,19 +10,19 @@ Activity: Activity performed by Each person wearing a smartphone (Samsung Galaxy
           5-WALKING_DOWNSTAIRS  
           6-WALKING_UPSTAIRS  
 
-Subject: the gorup ID of Volunteers
+**Subject:** the gorup ID of Volunteers
         number
             1:30
 
-Averag of:XXX
-  Mean value of variable XXX per each activity and each subject, 
-  't' to indicate the time domain 
-  'f' to indicate frequency domain signals 
-  Acc to indicate accelerometer
-  Gyro to indicate Gyroscope
-  XYZ to indicate 3-axial
-  mean(): Mean value
-  std(): Standard deviation
+**Averag of:XXX**  
+  Mean value of variable XXX per each activity and each subject  
+  't' to indicate the time domain   
+  'f' to indicate frequency domain signals  
+  Acc to indicate accelerometer  
+  Gyro to indicate Gyroscope  
+  XYZ to indicate 3-axial  
+  mean(): Mean value  
+  std(): Standard deviation  
         
         averag of:tBodyAcc-mean()-X
         averag of:tBodyAcc-mean()-Y
