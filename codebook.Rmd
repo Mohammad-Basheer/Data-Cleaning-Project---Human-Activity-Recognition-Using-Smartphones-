@@ -2,13 +2,13 @@
 title: "CodeBook"
 ---
 ## Variable Descriptions
-Activity: Activity performed by Each person wearing a smartphone (Samsung Galaxy S II) on the wais
-          1-LAYING
-          2-SITTING
-          3-STANDING
-          4-WALKING
-          5-WALKING_DOWNSTAIRS
-          6-WALKING_UPSTAIRS
+Activity: Activity performed by Each person wearing a smartphone (Samsung Galaxy S II) on the wais  
+          1-LAYING  
+          2-SITTING  
+          3-STANDING  
+          4-WALKING  
+          5-WALKING_DOWNSTAIRS  
+          6-WALKING_UPSTAIRS  
 
 Subject: the gorup ID of Volunteers
         number
