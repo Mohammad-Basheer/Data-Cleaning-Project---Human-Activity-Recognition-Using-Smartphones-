@@ -1,5 +1,6 @@
 # Data-Cleaning-Project---Human-Activity-Recognition-Using-Smartphones-
-Data Cleaning Project - Human Activity Recognition Using Smartphones 
+Data Cleaning Project - Human Activity Recognition Using Smartphones
+
 Read activity names from activity_labels.txt
 Read feature names from features.txt, it has some repeated variable names
 create new unique feature names by combining Row number + original feature name
